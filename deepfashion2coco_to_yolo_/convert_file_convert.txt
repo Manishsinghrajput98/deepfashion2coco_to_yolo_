@@ -1,8 +1,0 @@
-python3 example.py --datasets COCO --img_path /home/link/Desktop/convert_yolo_formate/train/ --label /home/link/Desktop/convert_yolo_formate/train/train.json --convert_output_path /home/link/Desktop/convert_yolo_formate/YOLO/ --img_type ".jpg" --manipast_path ./ --cls_list_file /home/link/Desktop/convert_yolo_formate/coco.names
-
-
-
-
-
-
-
